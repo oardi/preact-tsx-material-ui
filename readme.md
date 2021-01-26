@@ -1,6 +1,6 @@
-# Preact TSX
+# preact tsx material-ui
 
-Preact TSX Webpack5 Starter with SCSS Support.
+Preact TSX Material UI Webpack5 Starter with SCSS Support.
 
 ## Usage
 * `npm install`
@@ -12,5 +12,5 @@ Preact TSX Webpack5 Starter with SCSS Support.
 
 ## Included
 - preact X
-- bootstrap
+- material-ui
 - webpack 5
